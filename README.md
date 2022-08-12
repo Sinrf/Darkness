@@ -48,11 +48,10 @@ How to add admin user?
 
 # TOS:
 ```sh
-What you use it for is up to you, we do not take any responsibility for this action
+What you use it for is up to you, I don't take any responsibility for what actions you take.
 ```
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Discord: sinnny#8423
 ```
