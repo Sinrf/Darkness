@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 Cosmic - Mirai modified 🚀
+# Let the darkness Consume You.
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/Cosmic-Mirai?color=%23DF0067&style=for-the-badge"/> &nbsp;
