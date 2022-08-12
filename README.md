@@ -1,6 +1,6 @@
 <div align=center>
  
-# Let the darkness Consume You.
+# Let The Darkness Consume You.
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/Cosmic-Mirai?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -48,7 +48,7 @@ How to add admin user?
 
 # TOS:
 ```sh
-What you use it for is up to you, I don't take any responsibility for what actions you take.
+What you use it for is up to you, I take ZERO Responsibility for your actions.
 ```
 
 # CONTACT:
